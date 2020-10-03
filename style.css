@@ -676,9 +676,9 @@ a {
     margin: auto auto auto auto;
 }
 
-/* p {
-    font-size: 1rem;
-} */
+p {
+    font-size: 11px;
+}
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.bmp");
 }
 
 @media (max-width: 1024px) {
